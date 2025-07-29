@@ -1,0 +1,51 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1753801881254,445,Fetch a list of users with pagination,200,OK,Thread Group 1-1,text,true,,2434,147,6,6,https://reqres.in/api/users,435,0,379
+1753801881456,244,Fetch a list of users with pagination,200,OK,Thread Group 1-4,text,true,,2434,147,6,6,https://reqres.in/api/users,234,0,178
+1753801881257,443,Fetch a list of users with pagination,200,OK,Thread Group 1-2,text,true,,2434,147,6,6,https://reqres.in/api/users,433,0,377
+1753801881356,344,Fetch a list of users with pagination,200,OK,Thread Group 1-3,text,true,,2434,147,6,6,https://reqres.in/api/users,334,0,278
+1753801881557,143,Fetch a list of users with pagination,200,OK,Thread Group 1-5,text,true,,2434,147,6,6,https://reqres.in/api/users,134,0,77
+1753801881702,19,Fetch a single user by ID,200,OK,Thread Group 1-4,text,true,,1709,149,6,6,https://reqres.in/api/users/1,19,0,0
+1753801881702,19,Fetch a single user by ID,200,OK,Thread Group 1-5,text,true,,1710,149,6,6,https://reqres.in/api/users/1,19,0,0
+1753801881702,21,Fetch a single user by ID,200,OK,Thread Group 1-3,text,true,,1710,149,6,6,https://reqres.in/api/users/1,21,0,0
+1753801881702,25,Fetch a single user by ID,200,OK,Thread Group 1-1,text,true,,1709,149,6,6,https://reqres.in/api/users/1,25,0,0
+1753801881702,38,Fetch a single user by ID,200,OK,Thread Group 1-2,text,true,,1709,149,6,6,https://reqres.in/api/users/1,38,0,0
+1753801881655,191,Fetch a list of users with pagination,200,OK,Thread Group 1-6,text,true,,2436,147,7,7,https://reqres.in/api/users,191,0,36
+1753801881847,56,Fetch a single user by ID,200,OK,Thread Group 1-6,text,true,,1711,149,8,8,https://reqres.in/api/users/1,56,0,0
+1753801881857,71,Fetch a list of users with pagination,200,OK,Thread Group 1-8,text,true,,2434,147,8,8,https://reqres.in/api/users,71,0,45
+1753801881929,16,Fetch a single user by ID,200,OK,Thread Group 1-8,text,true,,1708,149,8,8,https://reqres.in/api/users/1,16,0,0
+1753801881755,232,Fetch a list of users with pagination,200,OK,Thread Group 1-7,text,true,,2440,147,9,9,https://reqres.in/api/users,232,0,149
+1753801881955,59,Fetch a list of users with pagination,200,OK,Thread Group 1-9,text,true,,2434,147,9,9,https://reqres.in/api/users,59,0,19
+1753801882014,18,Fetch a single user by ID,200,OK,Thread Group 1-9,text,true,,1708,149,9,9,https://reqres.in/api/users/1,17,0,0
+1753801881988,72,Fetch a single user by ID,200,OK,Thread Group 1-7,text,true,,1723,149,10,10,https://reqres.in/api/users/1,72,0,0
+1753801882055,216,Fetch a list of users with pagination,200,OK,Thread Group 1-10,text,true,,2439,147,10,10,https://reqres.in/api/users,216,0,130
+1753801882273,69,Fetch a single user by ID,200,OK,Thread Group 1-10,text,true,,1722,149,10,10,https://reqres.in/api/users/1,69,0,0
+1753801881728,635,Create a new user,201,Created,Thread Group 1-1,text,true,,1392,283,10,10,https://reqres.in/api/users,635,0,0
+1753801881722,635,Create a new user,201,Created,Thread Group 1-5,text,true,,1392,283,10,10,https://reqres.in/api/users,635,0,0
+1753801881724,644,Create a new user,201,Created,Thread Group 1-3,text,true,,1392,283,10,10,https://reqres.in/api/users,644,0,0
+1753801881740,649,Create a new user,201,Created,Thread Group 1-2,text,true,,1392,283,10,10,https://reqres.in/api/users,649,0,0
+1753801881722,673,Create a new user,201,Created,Thread Group 1-4,text,true,,1390,283,10,10,https://reqres.in/api/users,673,0,0
+1753801881945,459,Create a new user,201,Created,Thread Group 1-8,text,true,,1391,283,10,10,https://reqres.in/api/users,459,0,0
+1753801882061,420,Create a new user,201,Created,Thread Group 1-7,text,true,,1394,283,10,10,https://reqres.in/api/users,420,0,0
+1753801882032,468,Create a new user,201,Created,Thread Group 1-9,text,true,,1391,283,10,10,https://reqres.in/api/users,467,0,0
+1753801882343,254,Create a new user,201,Created,Thread Group 1-10,text,true,,1393,283,10,10,https://reqres.in/api/users,254,0,0
+1753801882390,249,Update an existing user,200,OK,Thread Group 1-2,text,true,,1377,234,10,10,https://reqres.in/api/users/162,248,0,0
+1753801882405,247,Update an existing user,200,OK,Thread Group 1-8,text,true,,1375,234,10,10,https://reqres.in/api/users/604,246,0,0
+1753801882389,471,Update an existing user,200,OK,Thread Group 1-1,text,true,,1377,234,10,10,https://reqres.in/api/users/609,471,0,0
+1753801882389,481,Update an existing user,200,OK,Thread Group 1-3,text,true,,1378,234,10,10,https://reqres.in/api/users/648,481,0,0
+1753801882389,482,Update an existing user,200,OK,Thread Group 1-5,text,true,,1377,234,10,10,https://reqres.in/api/users/743,482,0,0
+1753801882640,245,Delete a user,204,No Content,Thread Group 1-2,,true,,1278,237,10,10,https://reqres.in/api/users/162,0,0,0
+1753801882481,414,Update an existing user,200,OK,Thread Group 1-7,text,true,,1379,234,9,9,https://reqres.in/api/users/540,414,0,0
+1753801882653,244,Delete a user,204,No Content,Thread Group 1-8,,true,,1277,237,9,9,https://reqres.in/api/users/604,0,0,0
+1753801882396,561,Update an existing user,200,OK,Thread Group 1-4,text,true,,1377,232,8,8,https://reqres.in/api/users/5,561,0,0
+1753801882599,449,Update an existing user,200,OK,Thread Group 1-10,text,true,,1376,234,8,8,https://reqres.in/api/users/458,449,0,0
+1753801882870,241,Delete a user,204,No Content,Thread Group 1-3,,true,,1277,237,8,8,https://reqres.in/api/users/648,0,0,0
+1753801882872,243,Delete a user,204,No Content,Thread Group 1-5,,true,,1277,237,7,7,https://reqres.in/api/users/743,0,0,0
+1753801882861,258,Delete a user,204,No Content,Thread Group 1-1,,true,,1278,237,6,6,https://reqres.in/api/users/609,0,0,0
+1753801882895,243,Delete a user,204,No Content,Thread Group 1-7,,true,,1284,237,5,5,https://reqres.in/api/users/540,0,0,0
+1753801882500,664,Update an existing user,200,OK,Thread Group 1-9,text,true,,1380,234,4,4,https://reqres.in/api/users/380,664,0,0
+1753801882958,240,Delete a user,204,No Content,Thread Group 1-4,,true,,1281,235,4,4,https://reqres.in/api/users/5,0,0,0
+1753801883050,253,Delete a user,204,No Content,Thread Group 1-10,,true,,1282,237,3,3,https://reqres.in/api/users/458,0,0,0
+1753801883165,242,Delete a user,204,No Content,Thread Group 1-9,,true,,1281,237,2,2,https://reqres.in/api/users/380,0,0,0
+1753801881905,1514,Create a new user,201,Created,Thread Group 1-6,text,true,,1398,283,1,1,https://reqres.in/api/users,1514,0,0
+1753801883420,488,Update an existing user,200,OK,Thread Group 1-6,text,true,,1382,234,1,1,https://reqres.in/api/users/959,487,0,0
+1753801883909,242,Delete a user,204,No Content,Thread Group 1-6,,true,,1286,237,1,1,https://reqres.in/api/users/959,0,0,0
