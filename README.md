@@ -1,6 +1,7 @@
 ### Rest reqres API Performance Testing with Report
 This project demonstrates Performance testing using JMeter of tests to load testing of the API.
 ## Feature
+- Load Testing
 - Tests for GET, POST, PUT, DELETE requests
 ## Technology Used
 - JMeter
